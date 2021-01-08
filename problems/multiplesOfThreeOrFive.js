@@ -15,3 +15,5 @@
 function multiplesOfThreeOrFive() {
 
 }
+
+module.exports = multiplesOfThreeOrFive
