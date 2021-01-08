@@ -1,4 +1,4 @@
-const countNumbers = require("../problems/countThrees")
+const countThrees = require("../problems/countThrees")
 
 describe("countThrees", () => {
     test("Counts the number of threes in a numerical input", () => {

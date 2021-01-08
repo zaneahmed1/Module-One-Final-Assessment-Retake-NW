@@ -1,4 +1,4 @@
-const countNumbers = require("../problems/isMultipleOfFive")
+const isMultipleOfFive = require("../problems/isMultipleOfFive")
 
 describe("isMultipleOfFive", () => {
     test("Returns true for multiples of five", () => {

@@ -1,4 +1,4 @@
-const countNumbers = require("../problems/areAnagrams")
+const areAnagrams = require("../problems/areAnagrams")
 
 describe("areAnagrams", () => {
     test("Returns true for anagrams", () => {

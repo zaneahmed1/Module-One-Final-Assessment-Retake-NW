@@ -1,4 +1,4 @@
-const countNumbers = require("../problems/mostCommonLetter")
+const mostCommonLetter = require("../problems/mostCommonLetter")
 
 describe("mostCommonLetter", () => {
     test("Returns the most common letter", () => {
