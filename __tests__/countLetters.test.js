@@ -9,7 +9,7 @@ describe("countLetters", () => {
     })
     test("Counts letters and does not count characters that are not letters", () => {
         expect(countLetters("Hi there")).toBe(7)
-        expect("A p . p ; l e s !").toBe(6)
+        expect(countLetters("A p . p ; l e s !")).toBe(6)
         expect(countLetters("....a..:()()")).toBe(1)
     })
 })
