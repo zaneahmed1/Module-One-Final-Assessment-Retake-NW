@@ -1,4 +1,4 @@
-const areAnagrams = require("../problems/countLetters")
+const countLetters = require("../problems/countLetters")
 
 describe("countLetters", () => {
     test("Counts letters in a string with only letters", () => {
