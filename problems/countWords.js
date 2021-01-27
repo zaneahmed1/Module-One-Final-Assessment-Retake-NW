@@ -14,7 +14,7 @@
 * returns: {}
 */
 
-function countWords(arr) {
+function countWords() {
   
 }
 
