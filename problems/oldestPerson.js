@@ -11,7 +11,7 @@
  * ex: oldestPerson({ 'Marcus': 29, 'Julia': 29, 'Kevin': 34 })
  * returns: 'Kevin'
  */
-function oldestPerson(obj) {
+function oldestPerson() {
 
 }
 
