@@ -18,7 +18,7 @@ Read the prompts in each file in `/problems`. You can do the problems in any ord
 
 > Note: You can run individual tests by passing the path of the test file to `npm test`. E.g. `npm test ./__tests__/isOdd.test.js` will only run that test file, reducing the amount of output.
 
-[function documentation](https://joinpursuit.github.io/Module-One-Final-Assessment-Retake/)
+[function documentation](https://stunning-fortnight-d218f86a.pages.github.io/)
 
 ## Submission Guidelines
 
