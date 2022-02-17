@@ -13,7 +13,15 @@
 * returns: 0
 */
 
-function countThrees() {
+function countThrees(n) {
+   let numberOfThrees = 0
+   let str = n.toString()
+   for(let i = 0; i < str.length; i++){
+       if(str[i] === "3"){
+       numberOfThrees += 1   
+       }
+   }
+   return numberOfThrees
 
 }
 
