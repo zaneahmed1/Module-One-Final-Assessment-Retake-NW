@@ -10,9 +10,14 @@
 * ex: removeStringsEndingInBang(["!", "", "a"])
 * returns: ["", "a"]
 */
-
-function removeStringsEndingInBang() {
-
+//removes ending arr[i].length-1
+function removeStringsEndingInBang(arr) {
+    for(let i = 0; i < arr.length; i++){
+        if(arr[i][arr[i].length-1] === "!"){
+            arr.splice(i,1)
+        }
+    }
+    return arr
 }
 
 module.exports = removeStringsEndingInBang
